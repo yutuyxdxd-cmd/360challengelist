@@ -1,0 +1,42 @@
+{
+    "id": 134291487,
+    "name": "raul o leo challenge",
+    "author": "buindi",
+    "creators": ["buindi"],
+    "verifier": "buindi",
+    "verification": "https://youtu.be/kHkkd_G1t7c",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "yutuyxd",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "PGuillermus",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "AngelLainus",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MartetosTetos",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ivi",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

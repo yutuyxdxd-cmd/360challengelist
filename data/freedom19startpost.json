@@ -1,0 +1,36 @@
+{
+    "id": 134553438,
+    "name": "FREEDOM19 startpost",
+    "author": "buindi",
+    "creators": ["buindi"],
+    "verifier": "PGuillermus",
+    "verification": "https://www.youtube.com/watch?v=EFRZ4ATRdMM",
+    "percentToQualify": "100",
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "AngelLainus",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ElSanti",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ivi",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MartetosTetos",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

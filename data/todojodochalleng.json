@@ -1,0 +1,30 @@
+{
+    "id": 133597709,
+    "name": "TODOJODO challeng",
+    "author": "yutuyxd",
+    "creators": ["yutuyxd"],
+    "verifier": "yutuyxd",
+    "verification": "https://youtu.be/dyytAqXYrIg",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "MartetosTetos",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ivi",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lutz",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
