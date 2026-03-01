@@ -4,13 +4,13 @@
     "author": "ivi",
     "creators": ["ivi"],
     "verifier": "ivi",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "verification": "https://youtu.be/jkzFkwWOm3I",
     "percentToQualify": "100",
     "password": "Copyable",
     "records": [
         {
             "user": "MartetosTetos",
-            "link": "",
+            "link": "https://youtu.be/jkzFkwWOm3I",
             "percent": 100,
             "hz": 240
         }
