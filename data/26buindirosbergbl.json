@@ -8,5 +8,17 @@
     "percentToQualify": 100,
     "password": "Copyable",
     "records": [
+        {
+            "user": "ivi",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "EABH",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
