@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Copyable",
     "records": [
+        {
+            "user": "MartetosTetos",
+            "link": "https://www.twitch.tv/playermartogd/clip/AgitatedPuzzledCodOSsloth-jE8QMrVBuLeup6xG",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
