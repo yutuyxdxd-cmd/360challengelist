@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Copyable",
     "records": [
+        {
+            "user": "MartetosTetos",
+            "link": "https://youtu.be/vuNeSVHrcFY",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
